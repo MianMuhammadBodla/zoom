@@ -3,7 +3,7 @@ import piaic from "../../public/ai.jpg"
 export default function Home() {
   return ( 
     <main className=" px-4 py-4 text-green-900 ">
-   <div className='font-bold text-yellow-400'>WELCOME WORLD</div>
+   <div className='font-bold text-yellow-400'>WELCOME to pakistan</div>
   <Image 
   src={piaic}
   width={300}
